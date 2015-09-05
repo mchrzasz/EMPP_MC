@@ -13,4 +13,17 @@ url:
 http://www.physik.uzh.ch/lectures/empp/15/lectures/
 
 
+# Lecture 1
+
+* Includes Monte Carlo integration:
+**
+**
+**
+**
+
+# Requirements
+
+To run this you will need:
+* python
+* ROOT (5.34/18 works, but I any V5.3X should work)
 
