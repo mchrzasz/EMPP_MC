@@ -25,7 +25,7 @@ def main(argv=sys.argv):
         if(i==0): hists[i].DrawNormalized()
         else: hists[i].DrawNormalized("SAME")
 
-    c.SaveAs("dupa.png")
-
+    c.SaveAs("clt.png")
+    c.SaveAs("clt.pdf")  
 if __name__ == "__main__":    
     sys.exit(main())      
